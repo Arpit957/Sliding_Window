@@ -1,0 +1,3 @@
+ In this case sum of middle subarray will be equal to totalSum-x
+    We have to minimixe the left and right element of a array thats 
+mean we have to maximize the number element of a subarray which present in the array which sum equal to totalSum-x
